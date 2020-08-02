@@ -2,6 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/asukafinance/asuka.finance/master/smug.jpg" width="20%">
 
+[![Telegram](https://img.shields.io/badge/telegram-chat-blue.svg)](https://t.me/asukafi)
 [![Discord](https://img.shields.io/discord/739320239489155084.svg?logo=discord)](https://discord.gg/HhukYDy)
 ![Twitter Follow](https://img.shields.io/twitter/follow/asukafinance?style=social)
 
@@ -13,9 +14,9 @@ Meet Asuka, your new DeFi waifu token ❤︎
 
 Asuka token is a Dogecoin of DeFi tokens, While the cute waifus farming yields on defi is one of the dominant memes around the defis, I've decided to create a meme defi token with finite supply coded permanently on the blockchain :)
 
-Unlike other YFI forks like YFII or YFFI, Asuka token will allocate 5% of premine from the initial supply for expanding rewards to other pool contracts in the future. Until then, the Governance contract for Asuka token will be established and key holders will be elected from the farmers who mined among the most.
+Total supply will be 20,150 ASUKA tokens and the first 10,000 ASUKA tokens will be farmed on the first week of yield farming while 150 ASUKA will be minted on the initial stage for airdrop and providing liquidity.
 
-Total supply will be 21,000 ASUKA tokens and the first 10,000 ASUKA tokens will be farmed on the first week of yield farming while 1,000 ASUKA will be minted on the initial stage for premine.
+While 1,000 ASUKA has minted at the first stage for extension opportunities, the community has decided to burn 850 ASUKA token in order to build more powerful memetic defi https://twitter.com/asukafinance/status/1289936892666888193.
 
 ### How do I yield with Asuka?
 
@@ -63,9 +64,11 @@ You can see your APY on [https://info.asuka.finance/asuka/asuka_dai/](https://in
 
 ### Transparency
 
-+ Premine for ASUKA token added for future governance
++ Premine for ASUKA token added for future governance and has destroyed by the community.
 
 [https://etherscan.io/tx/0x9df32f410c85c4ca697c082e11f7be42704066a7c3782d6477edced9cf93cbfc](https://etherscan.io/tx/0x9df32f410c85c4ca697c082e11f7be42704066a7c3782d6477edced9cf93cbfc)
+
+[https://etherscan.io/tx/0xb995ef7c501ee7670cbef23396137f19c93a210e3476daec2d6cef96fe0a2382](https://etherscan.io/tx/0xb995ef7c501ee7670cbef23396137f19c93a210e3476daec2d6cef96fe0a2382)
 
 + Minter added & burned for owner address @ ASUKA contract
 
