@@ -28,7 +28,7 @@ Stake the received "Balancer Pool Tokens" on Asuka reward contract [https://app.
 
 In short, Deposit DAI to balancer pool and Deposit Balancer Pool Token to ASUKA reward contract.
 
-You can see your APY on [https://info.asuka.finance](https://info.asuka.finance).
+You can see your APY on [https://info.asuka.finance/asuka/asuka_dai/](https://info.asuka.finance/asuka/asuka_dai/).
 
 ### ASUKA Token Contract address
 
@@ -49,6 +49,10 @@ You can see your APY on [https://info.asuka.finance](https://info.asuka.finance)
 [https://app.asuka.finance](https://app.asuka.finance)
 
 [https://etherscan.io/address/0x7b239F1D46Cb93AbF668BeffaFFdd1A928710e2A](https://etherscan.io/address/0x7b239F1D46Cb93AbF668BeffaFFdd1A928710e2A)
+
+### Asuka Yield Farming APY Calculator
+
+[https://info.asuka.finance/asuka/asuka_dai/](https://info.asuka.finance/asuka/asuka_dai/)
 
 ### Transparency
 
