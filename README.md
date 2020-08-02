@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/asukafinance/asuka.finance/master/smug.jpg" width="20%">
 
+![Discord chat](https://img.shields.io/discord/739320239489155084.svg?logo=discord)(https://discord.gg/HhukYDy)
+
 Meet Asuka, your new DeFi waifu token ❤︎
 
 ***ASUKA Distribution Starts on UTC+0 08/02/2020 10:00:00***
