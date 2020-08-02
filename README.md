@@ -8,13 +8,13 @@
 
 Meet Asuka, your new DeFi waifu token ❤︎
 
-***ASUKA Distribution Starts on UTC+0 08/02/2020 10:00:00***
+***Important, there will only be 10,150 $ASUKA for max supply cap and only 5,150 $ASUKA will be distributed on the first week, while we have burned 850 $ASUKA tokens, supply information on etherscan will be updated shortly.***
 
 ### ELI5 about Asuka Token
 
 Asuka token is a Dogecoin of DeFi tokens, While the cute waifus farming yields on defi is one of the dominant memes around the defis, I've decided to create a meme defi token with finite supply coded permanently on the blockchain :)
 
-Total supply will be 20,150 ASUKA tokens and the first 10,000 ASUKA tokens will be farmed on the first week of yield farming while 150 ASUKA will be minted on the initial stage for airdrop and providing liquidity.
+Total supply will be 10,150 ASUKA tokens and the first 5,000 ASUKA tokens will be farmed on the first week of yield farming while 150 ASUKA will be minted on the initial stage for airdrop and providing liquidity.
 
 While 1,000 ASUKA has minted at the first stage for extension opportunities, the community has decided to burn 850 ASUKA token in order to build more powerful memetic defi https://twitter.com/asukafinance/status/1289936892666888193.
 
