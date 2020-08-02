@@ -94,4 +94,12 @@ You can see your APY on [https://info.asuka.finance/asuka/asuka_dai/](https://in
 
 [https://etherscan.io/tx/0x7a3325a848447f5a0392874ed77010483f94ed5c907e5b8e7c7222cc1f158c81](https://etherscan.io/tx/0x7a3325a848447f5a0392874ed77010483f94ed5c907e5b8e7c7222cc1f158c81)
 
++ 40 ASUKA exchanged with 6 ETH to provide liquidity on Uniswap
+
+[https://etherscan.io/tx/0x1b368cfd197ef370e934e957bca434b73d3f19aa1704e2b7259714321d564a4a](https://etherscan.io/tx/0x1b368cfd197ef370e934e957bca434b73d3f19aa1704e2b7259714321d564a4a)
+
+[https://etherscan.io/tx/0x42cc447481d0af680037e2c43573e4a2b963712e16103b7e2b5b5fe789f13398](https://etherscan.io/tx/0x42cc447481d0af680037e2c43573e4a2b963712e16103b7e2b5b5fe789f13398)
+
+[https://etherscan.io/tx/0xdd040df8d195d14514e274510cf1f73f135c13554d7ba8db85b0665795c17c7d](https://etherscan.io/tx/0xdd040df8d195d14514e274510cf1f73f135c13554d7ba8db85b0665795c17c7d)
+
 ***Disclaimer: This page should not be taken as the basis for making investment decisions, nor be construed as a recommendation to engage in investment transactions. Trading digital assets involve significant risk and can result in the loss of your invested capital. You should ensure that you fully understand the risk involved and take into consideration your level of experience, investment objectives and seek independent financial advice if necessary. The inherited value for ASUKA token is zero. We re-iterate, it has 0 financial value. Please, Do Your Own Research.***
