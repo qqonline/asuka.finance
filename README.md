@@ -38,6 +38,10 @@ You can see your APY on [https://info.asuka.finance/asuka/asuka_dai/](https://in
 
 [https://etherscan.io/token/0x348F9b40DF1D4eC2082371BacB136Fc727CCdd8c](https://etherscan.io/token/0x348F9b40DF1D4eC2082371BacB136Fc727CCdd8c)
 
+### ASUKA Monetary Chart
+
+[https://docs.google.com/spreadsheets/d/1e0AUEsMxFkwypb8_1lbwj0Pqe7Uujb_zL9z4YXJ8XFc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1e0AUEsMxFkwypb8_1lbwj0Pqe7Uujb_zL9z4YXJ8XFc/edit?usp=sharing)
+
 ### ASUKA Uniswap exchange
 
 [https://app.uniswap.org/#/swap?outputCurrency=0x348F9b40DF1D4eC2082371BacB136Fc727CCdd8c](https://app.uniswap.org/#/swap?outputCurrency=0x348F9b40DF1D4eC2082371BacB136Fc727CCdd8c)
