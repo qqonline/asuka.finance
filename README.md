@@ -40,6 +40,8 @@ You can see your APY on [https://info.asuka.finance/asuka/asuka_dai/](https://in
 
 ### ASUKA Monetary Chart
 
+<img src="https://raw.githubusercontent.com/asukafinance/asuka.finance/master/supply.png" width="20%">
+
 [https://docs.google.com/spreadsheets/d/1e0AUEsMxFkwypb8_1lbwj0Pqe7Uujb_zL9z4YXJ8XFc/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1e0AUEsMxFkwypb8_1lbwj0Pqe7Uujb_zL9z4YXJ8XFc/edit?usp=sharing)
 
 ### ASUKA Uniswap exchange
