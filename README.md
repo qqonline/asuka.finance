@@ -37,6 +37,10 @@ You can see your APY on [https://info.asuka.finance/asuka/asuka_dai/](https://in
 
 [https://etherscan.io/token/0x348F9b40DF1D4eC2082371BacB136Fc727CCdd8c](https://etherscan.io/token/0x348F9b40DF1D4eC2082371BacB136Fc727CCdd8c)
 
+### ASUKA Uniswap exchange
+
+[https://app.uniswap.org/#/swap?outputCurrency=0x348F9b40DF1D4eC2082371BacB136Fc727CCdd8c](https://app.uniswap.org/#/swap?outputCurrency=0x348F9b40DF1D4eC2082371BacB136Fc727CCdd8c)
+
 ### Balancer ASUKA - DAI exchange
 
 [https://balancer.exchange/#/swap/0x348F9b40DF1D4eC2082371BacB136Fc727CCdd8c](https://balancer.exchange/#/swap/0x348F9b40DF1D4eC2082371BacB136Fc727CCdd8c)
@@ -82,5 +86,9 @@ You can see your APY on [https://info.asuka.finance/asuka/asuka_dai/](https://in
 [https://etherscan.io/tx/0x6f683e7744fadbf18b566f0378991e5a5cb0cdab61ff52db8e149e04d152ab70](https://etherscan.io/tx/0x6f683e7744fadbf18b566f0378991e5a5cb0cdab61ff52db8e149e04d152ab70)
 
 [https://etherscan.io/tx/0x9efa17eb02bc4d4bfb8c252efe05abe6e97b83027b409cb1e299aff34d09b581](https://etherscan.io/tx/0x9efa17eb02bc4d4bfb8c252efe05abe6e97b83027b409cb1e299aff34d09b581)
+
++ BPT burned
+
+[https://etherscan.io/tx/0x7a3325a848447f5a0392874ed77010483f94ed5c907e5b8e7c7222cc1f158c81](https://etherscan.io/tx/0x7a3325a848447f5a0392874ed77010483f94ed5c907e5b8e7c7222cc1f158c81)
 
 ***Disclaimer: This page should not be taken as the basis for making investment decisions, nor be construed as a recommendation to engage in investment transactions. Trading digital assets involve significant risk and can result in the loss of your invested capital. You should ensure that you fully understand the risk involved and take into consideration your level of experience, investment objectives and seek independent financial advice if necessary. The inherited value for ASUKA token is zero. We re-iterate, it has 0 financial value. Please, Do Your Own Research.***
