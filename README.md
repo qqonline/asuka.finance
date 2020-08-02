@@ -3,6 +3,7 @@
 <img src="https://raw.githubusercontent.com/asukafinance/asuka.finance/master/smug.jpg" width="20%">
 
 [![Discord](https://img.shields.io/discord/739320239489155084.svg?logo=discord)](https://discord.gg/HhukYDy)
+![Twitter Follow](https://img.shields.io/twitter/follow/asukafinance?style=social)
 
 Meet Asuka, your new DeFi waifu token ❤︎
 
